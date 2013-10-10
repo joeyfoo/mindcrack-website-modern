@@ -1,0 +1,260 @@
+body{
+  background-color:#252525;
+  color:#FFF;
+}
+
+em{
+  font-style:normal;
+  color:#6495e2;
+}
+
+h2, h3, h4, h5, h6{
+  color:#6495e2;
+  text-transform:uppercase;
+}
+h2{
+  color:#FFF;
+  font-size: 22px; 
+}
+h3{
+  font-size: 18px; 
+}
+
+/* Mindcracker */
+.mindcracker{
+  display:inline-block;
+  background-image:url(../img/mindcrackers.png);
+  background-repeat:no-repeat;
+  background-color:#333;
+  height:40px;
+  min-width:40px;
+  vertical-align:bottom;
+  margin-right:5px;
+}
+.mindcracker a{
+  display:inline-block;
+  color:#FFF;
+  padding-left:50px;
+  padding-top:10px;
+  padding-right:10px;
+}
+.adlington{
+  background-position:0px -480px;
+}
+.anderzel{
+  background-position:0px -840px;
+}
+.arkas{
+  background-position:0px -880px;
+}
+.avidya{
+  background-position:0px -1440px;
+}
+.bdoubleo{
+  background-position:0px -680px;
+}
+.blametc{
+  background-position:0px -1520px;
+}
+.docm{
+  background-position:0px -720px;
+}
+.etho{
+  background-position:0px -800px;
+}
+.generikb{
+  background-position:0px -1160px;
+}
+.guude{
+  background-position:0px -640px;
+}
+.jsano{
+  background-position:0px -440px;
+}
+.kurt{
+  background-position:0px -600px;
+}
+.mcgamer{
+  background-position:0px -360px;
+}
+.mhykol{
+  background-position:0px -320px;
+}
+.millbee{
+  background-position:0px -920px;
+}
+.mindcrack{
+  background-position:0px -1600px;
+}
+.nebris{
+  background-position:0px -280px;
+}
+.pakratt{
+  background-position:0px -120px;
+}
+.paulsjr{
+  background-position:0px -1560px;
+}
+.pause{
+  background-position:0px -560px;
+}
+.pyrao{
+  background-position:0px -80px;
+}
+.sethbling{
+  background-position:0px -1680px;
+}
+.thejims{
+  background-position:0px -240px;
+}
+.vechs{
+  background-position:0px -1640px;
+}
+.vintagebeef{
+  background-position:0px -760px;
+}
+.w92baj{
+  background-position:0px -520px;
+}
+.zisteau{
+  background-position:0px -200px;
+}
+
+/* Navigation */
+.headerlogo{
+  background-color:#6495e2;
+  height:80px;
+  background-image:url(../img/mindcracklogo.png);
+  background-repeat:no-repeat;
+  
+  text-transform:uppercase;
+  padding-left:80px;
+  padding-top:16px;
+  font-size:32px;
+  font-weight:300;
+}
+
+.navbar{
+  background-color:#191919;
+}
+.nav{
+  padding-top:22px;
+  padding-bottom:18px;
+  font-size:22px;
+  font-weight:300;
+  text-transform:uppercase;
+}
+.nav li{
+  display:inline-block;
+  padding-left:16px;
+  padding-right:16px;
+}
+.nav a{
+  color:#FFF;
+}
+.nav a:hover{
+  color:#6495e2;
+  text-decoration:none;
+}
+.nav a:active{
+  color:#6495e2;
+  text-decoration:none;
+}
+.nav .current{
+  color:#6495e2;
+}
+
+/* Featured video */
+.featuredvideo{
+  padding-top:28px;
+  padding-bottom: 48px;
+}
+.featuredvideo h2{
+  color:#FFFFFF;
+  padding-top:0;
+}
+.featuredvideo .vidplayer{
+  background-color:#000;
+  height:100%;
+  padding-right:0;
+  height:280px;
+}
+.featuredvideo iframe{
+  width:100%;
+  height:280px;
+}
+.featuredvideo .vidinfo{
+  padding-top:16px;
+  background-color:#444;
+  min-height:280px;
+  min-height:280px;
+  padding-bottom:16px;
+}
+.featuredvideo .viduser{
+  margin-top:20px;
+}
+.featuredvideo .viduser p{
+  margin:0;
+}
+.featuredvideo .username{
+  text-transform:uppercase;
+  font-size:12px;
+}
+.featuredvideo .username a{
+  color:#FFF;
+}
+.featuredvideo .subscribe{
+  display:inline-block;
+  
+  width:175px;
+  padding:8px;
+  
+  text-transform:uppercase;
+  font-size:18px;
+  color:#FFF;
+  background-color:#6495e2;
+  background-image:url(../img/subscribe.png);
+  background-position:right center;
+  background-repeat:no-repeat;
+}
+.featuredvideo .subscribe:hover{
+  text-decoration:none;
+  background-color:#47A;
+}
+.featuredvideo .subscribe:active{
+  text-decoration:none;
+  background-color:#888;
+}
+
+.latestupdates{
+  background-color:#444;
+}
+
+.tweet{
+  background-color:#333;
+}
+.tweettext{
+  padding-left:50px;
+  padding-right:10px;
+  padding-bottom:5px;
+}
+.tweetuser{
+  width:100%;
+  font-weight:bold;
+}
+
+.chat{
+  background-color:#333;
+  min-height:40px;
+  margin-bottom:5px;
+}
+.chattext{
+  padding-left:50px;
+  padding-right:10px;
+  padding-bottom:5px;
+}
+.chatuser{
+  width:40px;
+  overflow:hidden;
+  float:left;
+}
