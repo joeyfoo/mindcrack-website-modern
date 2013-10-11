@@ -264,37 +264,50 @@ h3{
   float:left;
 }*/
 
+.vidlist{
+  padding-right:0;
+}
+
 .vidblock{
   display:inline-block;
-  margin-right:8px;
-  margin-bottom:8px;
-  width:260px;
-  height:210px;
+  margin-right:5px;
+  margin-bottom:16px;
+  width:220px;
+  height:190px;
   background-color:#333;
   border-radius:3px;
 }
-.vidthumb{
-  width:260px;
-  height:145px;
+.vidblock .vidthumb{
+  width:100%;
+  height:125px;
   background-position:center center;
   background-size:cover;
-  border-radius:3px;
 }
-.vidinfo{
+@media (min-width:1200px){
+  .vidblock{
+  margin-right:16px;
+    width:260px;
+    height:210px;
+  }
+  .vidblock .vidthumb{
+    height:145px;
+  }
+}
+.vidblock .vidinfo{
   padding:0 8px;
 }
-.vidinfo p{
+.vidblock .vidinfo p{
   margin-bottom:0;
 }
-.vidinfo a{
+.vidblock .vidinfo a{
   color:#FFF;
 }
-.vidtitle{
+.vidblock .vidtitle{
   font-weight:bold;
   height:40px;
   overflow:hidden;
 }
-.vidauthor{
+.vidblock .vidauthor{
   text-transform:uppercase;
   font-size:12px;
 }
@@ -346,6 +359,16 @@ h3{
 
 .footer{
   margin:20px 0;
+  font-size:12px;
+  color:#CCC;
+}
+.footer p{
+  margin-bottom:0;
+}
+@media (min-width:992px){
+  .footerright{
+    text-align:right
+  }
 }
 .footerlogo{
   text-align:center;
@@ -353,6 +376,7 @@ h3{
   background-position:center center;
   background-repeat:no-repeat;
   opacity:0.5;
+  height:35px;
 }
 .footerlogo:hover, .footerlogo:active{
   opacity:1;
