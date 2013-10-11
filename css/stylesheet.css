@@ -174,14 +174,13 @@ h3{
   padding-top:28px;
   padding-bottom: 48px;
 }
-.memberlist .mindcracker {
+.memberlist-mindcracker {
   margin-top:10px;
-  border: 2px solid;
-  border-color: #191919;
-  border-radius:5px;
 }
-.memberlist:hover .mindcracker:hover {
-  background-color:#6495E2;
+.memberlist {
+  background-color: #444;
+  padding-bottom: 16px;
+  margin-top: 48px;
 }
 .featuredvideo h2{
   color:#FFFFFF;
