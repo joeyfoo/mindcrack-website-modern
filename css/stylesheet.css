@@ -36,6 +36,15 @@ h3{
   vertical-align:bottom;
   margin-right:5px;
 }
+.memberlist-mindcracker {
+  margin-top:10px;
+}
+.memberlist {
+  background-color: #444;
+  padding-bottom: 16px;
+  margin-top: 48px;
+}
+
 .mindcracker a{
   display:inline-block;
   color:#FFF;

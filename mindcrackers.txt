@@ -1,78 +1,26 @@
-<div class="mindcracker adlington">
-  Adlington
-</div>
-<div class="mindcracker anderzel">
-  AnderZEL
-</div>
-<div class="mindcracker arkas">
-  Arkas
-</div>
-<div class="mindcracker avidya">
-  Avidya
-</div>
-<div class="mindcracker bdoubleo">
-  BdoubleO
-</div>
-<div class="mindcracker blametc">
-  BlameTC
-</div>
-<div class="mindcracker docm">
-  Docm
-</div>
-<div class="mindcracker etho">
-  Etho
-</div>
-<div class="mindcracker generikb">
-  GenerikB
-</div>
-<div class="mindcracker guude">
-  Guude
-</div>
-<div class="mindcracker jsano">
-  Jsano
-</div>
-<div class="mindcracker kurt">
-  Kurt
-</div>
-<div class="mindcracker mcgamer">
-  MCGamer
-</div>
-<div class="mindcracker mhykol">
-  Mhykol
-</div>
-<div class="mindcracker millbee">
-  Millbee
-</div>
-<div class="mindcracker nebris">
-  Nebris
-</div>
-<div class="mindcracker pakratt">
-  Pakratt
-</div>
-<div class="mindcracker paulsjr">
-  PaulSJr
-</div>
-<div class="mindcracker pause">
-  Pause
-</div>
-<div class="mindcracker pyrao">
-  Pyrao
-</div>
-<div class="mindcracker sethbling">
-  SethBling
-</div>
-<div class="mindcracker thejims">
-  TheJims
-</div>
-<div class="mindcracker vechs">
-  Vechs
-</div>
-<div class="mindcracker vintagebeef">
-  VintageBeef
-</div>
-<div class="mindcracker w92baj">
-  W92Baj
-</div>
-<div class="mindcracker zisteau">
-  Zisteau
-</div>
+Adlington
+AnderZEL
+Arkas
+Avidya
+BdoubleO
+BlameTC
+Docm
+Etho
+GenerikB
+Guude
+Jsano
+Kurt
+MCGamer
+Mhykol
+Millbee
+Nebris
+Pakratt
+PaulSJr
+Pause
+Pyrao
+SethBling
+TheJims
+Vechs
+VintageBeef
+W92Baj
+Zisteau
